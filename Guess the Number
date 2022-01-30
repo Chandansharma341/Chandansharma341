@@ -1,0 +1,21 @@
+import random
+n = range(1, 20)
+Bot = random.choice(list(n))
+
+print("Welcome to the game Guess the Number\nYou have only 5 life")
+number_of_Guesses = 1
+
+while number_of_Guesses <= 5:
+    x = int(input("Guess the Number: "))
+    if x < Bot:
+        print("Bad Guess need to increase the Number.")
+    elif x > Bot:
+        print("Bad guess need to decrease the Number.")
+    else:
+        print("Nice Guess\n", number_of_Guesses, "no. of guesses taken")
+
+    print(f"{5 - number_of_Guesses} no. of guesses left")
+    number_of_Guesses = number_of_Guesses + 1
+
+    if number_of_Guesses > 5:
+        print("GAME OVER")
