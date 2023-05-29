@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chandansharma341
-- 👀 I’m interested in learning Data Science and analytics
-- 🌱 I’m currently learning Power Bi, SQL, Python
-- 💞️ I’m looking to collaborate on any project realted to data analyst
+- 👀 I’m interested in learning Data Sciences, analytics, web development.
+- 🌱 I’m currently learning Java, Spring, Spring boot, SQL, Python
+- 💞️ I’m looking to collaborate on any project.
 - 📫 You can connect me on Mail: chandansharma341@gmail.com , Linkedin: www.linkedin.com/in/chandansharma341 .
 
 <!---
